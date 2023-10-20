@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "industrialcraft3:block/tin_block",
+    "side": "industrialcraft3:block/tin_block",
+    "top": "industrialcraft3:block/tin_block"
+  }
+}

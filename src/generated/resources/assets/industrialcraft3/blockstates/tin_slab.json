@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "industrialcraft3:block/tin_slab"
+    },
+    "type=double": {
+      "model": "industrialcraft3:block/tin_block"
+    },
+    "type=top": {
+      "model": "industrialcraft3:block/tin_slab_top"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 130,
+  "experience": 0.25,
+  "group": "tin",
+  "ingredient": {
+    "item": "industrialcraft3:raw_tin"
+  },
+  "result": "industrialcraft3:tin_ingot"
+}

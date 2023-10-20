@@ -1,0 +1,31 @@
+{
+  "item.industrialcraft3.tin_ingot": "Zinnbarren",
+  "item.industrialcraft3.tin_dust": "Zinnstaub",
+  "item.industrialcraft3.tin_plate": "Zinnplatte",
+  "item.industrialcraft3.small_tin_dust": "Zinnstaubkorn",
+  "item.industrialcraft3.raw_tin": "Rohzinn",
+  "item.industrialcraft3.raw_lead": "Rohblei",
+  "item.industrialcraft3.lead_ingot": "Bleibarren",
+
+  "block.industrialcraft3.tin_block": "Zinnblock",
+  "block.industrialcraft3.tin_ore": "Zinnerz",
+  "block.industrialcraft3.deepslate_tin_ore": "Tiefenschiefer-Zinnerz",
+  "block.industrialcraft3.raw_tin_block": "Rohzinnblock",
+  "block.industrialcraft3.lead_ore": "Bleierz",
+  "block.industrialcraft3.deepslate_lead_ore": "Tiefenschiefer-Bleierz",
+  "block.industrialcraft3.lead_block": "Bleiblock",
+
+  "block.industrialcraft3.tin_stairs": "Zinntreppe",
+  "block.industrialcraft3.tin_slab": "Zinnstufe",
+
+  "block.industrialcraft3.tin_button": "Zinnknopf",
+  "block.industrialcraft3.tin_pressure_plate": "Zinndruckplatte",
+  "block.industrialcraft3.tin_fence": "Zinnzaun",
+  "block.industrialcraft3.tin_fence_gate": "Zinnzauntor",
+  "block.industrialcraft3.tin_wall": "Zinnmauer",
+
+  "block.industrialcraft3.electric_furnace": "Elektrischer Ofen",
+
+
+  "creativetab.ic_tab": "IC³"
+}

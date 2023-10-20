@@ -1,0 +1,31 @@
+{
+  "item.industrialcraft3.tin_ingot": "Tin Ingot",
+  "item.industrialcraft3.tin_dust": "Tin Dust",
+  "item.industrialcraft3.tin_plate": "Tin Plate",
+  "item.industrialcraft3.small_tin_dust": "Tiny Pile of Tin Dust",
+  "item.industrialcraft3.raw_tin": "Raw Tin",
+  "item.industrialcraft3.raw_lead": "Raw Lead",
+  "item.industrialcraft3.lead_ingot": "Lead Ingot",
+
+  "block.industrialcraft3.tin_block": "Block of Tin",
+  "block.industrialcraft3.tin_ore": "Tin Ore",
+  "block.industrialcraft3.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.industrialcraft3.raw_tin_block": "Raw Block of Tin",
+  "block.industrialcraft3.lead_ore": "Lead Ore",
+  "block.industrialcraft3.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.industrialcraft3.lead_block": "Block of Lead",
+
+  "block.industrialcraft3.tin_stairs": "Tin Stairs",
+  "block.industrialcraft3.tin_slab": "Tin Slab",
+
+  "block.industrialcraft3.tin_button": "Tin Button",
+  "block.industrialcraft3.tin_pressure_plate": "Tin Pressure Plate",
+  "block.industrialcraft3.tin_fence": "Tin Fence",
+  "block.industrialcraft3.tin_fence_gate": "Tin Fence Gate",
+  "block.industrialcraft3.tin_wall": "Tin Wall",
+
+  "block.industrialcraft3.electric_furnace": "Electric Furnace",
+
+
+  "creativetab.ic_tab": "IC³"
+}

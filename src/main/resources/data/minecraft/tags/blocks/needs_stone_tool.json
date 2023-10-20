@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "industrialcraft3:tin_block",
+    "industrialcraft3:tin_ore",
+    "industrialcraft3:deepslate_tin_ore",
+    "industrialcraft3:raw_tin_block",
+    "industrialcraft3:lead_ore",
+    "industrialcraft3:deepslate_lead_ore",
+    "industrialcraft3:lead_block",
+    "industrialcraft3:tin_slab",
+    "industrialcraft3:tin_stairs",
+    "industrialcraft3:tin_fence",
+    "industrialcraft3:tin_fence_gate",
+    "industrialcraft3:tin_wall"
+  ]
+}

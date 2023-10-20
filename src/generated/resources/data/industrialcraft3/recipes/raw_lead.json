@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "lead",
+  "key": {
+    "#": {
+      "item": "industrialcraft3:lead_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "industrialcraft3:lead_block"
+  },
+  "show_notification": true
+}

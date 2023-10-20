@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "industrialcraft3:tin_ingot"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "industrialcraft3:tin_slab"
+  },
+  "show_notification": true
+}
